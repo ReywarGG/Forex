@@ -5,4 +5,3 @@ yfinance
 requests
 beautifulsoup4
 lxml
-MetaTrader5
